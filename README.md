@@ -6,7 +6,7 @@ Dockerコンテナ、Pythonとgspreadでグーグルのスプレッドシート�
 
 ### env
 
-    mv env_sample .env
+    mv opt/env_sample opt/.env
 
 ### コンテナ起動
 
