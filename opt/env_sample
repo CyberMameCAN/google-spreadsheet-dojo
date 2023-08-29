@@ -1,0 +1,3 @@
+SHEET_KEY = "1_xxxxxxxxxxXXXXXXXXXXXXXXXXX"
+CREDENTIALS = "/path/to/credentials.json"
+WORKSHEET_NAME = "sheet_name"
