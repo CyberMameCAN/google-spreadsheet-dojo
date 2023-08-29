@@ -4,6 +4,12 @@ Dockerコンテナ、Pythonとgspreadでグーグルのスプレッドシート�
 
 ## 動かし方
 
+### env
+
+    mv env_sample .env
+
+### コンテナ起動
+
     docker compose up -d --build
 
 ### コンテナの中に入らずに実行
